@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workout @ Home</title>
+    <link rel="stylesheet" href="w-styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Geist:wght@100..900&family=Lexend:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>Workouts I'm Doing</h1>
+
+    <div class="container-cat">
+        <h2>Workout Categories</h2>
+        <div class="categories">
+            <div class="category-card weights">
+                <h3>Weights Workout</h3>
+                <p>Focuses on strength training using barbells, dumbbells, and machines.</p>
+            </div>
+            <div class="category-card hiit">
+                <h3>High-Intensity Circuits</h3>
+                <p>30 minutes of circuits split into four 7-min circuits with short rests in between. Includes plyometrics, strength, and balance exercises.</p>
+            </div>
+            <div class="category-card calisthenics">
+                <h3>Handstands & Calisthenics</h3>
+                <p>Bodyweight movements to build strength, balance, and control.</p>
+            </div>
+        </div>
+    </div>
+    
+    <h1>Week 1 Workout Plan</h1>
+    <div class="container">
+        <div class="weights-workouts">
+        <div class="weights-hammies">
+            <h2>Hammies & Quads</h2>
+            <div class="warmup">
+                <h3>Warmup</h3>
+                <p>Lateral lunge shifts - 40 sec</p>
+                <p>Deep sumo squat shifts - 40 sec</p>
+                <p>Fire hydrants - 40 sec</p>
+                <p>Hip openers - 40 sec</p>
+                <p>Plank - 40 sec</p>
+            </div>
+            <div class="activation">
+                <h3>Activation</h3>
+                <p>Reverse lunges - 2 sets of 10 reps</p>
+                <p>Short band glute bridges - 40 sec</p>
+                <p>Extended clams - 2 sets of 12 reps</p>
+            </div>
+            <div class="wod">
+                <h3>Workout of the Day (WOD)</h3>
+                <p>Squat - 4 sets of 12, 12, 10, 8 reps</p>
+                <p>Romanian deadlift - 3 sets of 10 reps</p>
+                <p>Barbell hip thrust - 4 sets of 12, 12, 10, 8 reps</p>
+                <p>Conventional deadlift - 3 sets of 10 reps</p>
+                <p>Exercise ball hamstring curls - 3 sets of 10 reps</p>
+                <p>Kickbacks in quadraped - 3 sets of 16 reps</p>
+                <p>Dumbbell split squats - 2 sets of 12 reps</p>
+            </div>
+            <div class="handstand-daily">
+                <h3>Daily Handstand Work</h3>
+                <p>Seated crunch - 3 sets of 20</p>
+                <p>Wall walks - 1 set of 20</p>
+            </div>
+            <div class="Finisher">
+                <h3>Finisher</h3>
+                <p>Pushups - 2 sets of 16 reps</p>
+                <p>Alternate V ups - 2 sets of 20 reps</p>
+                <p>Jump lunges - 3 sets of 16 reps</p>
+                <p>Hanging leg raises - 3 sets of 8 reps</p>
+                <p>Candlestick crunch - 2 sets of 15 reps</p>
+            </div>
+            <div class="cool-down">
+                <h3>Cool Down</h3>
+                <p>Quad stretch - 40 sec</p>
+                <p>Hamstring stretch - 40 sec</p>
+                <p>Pancake stretch - 2 min</p>
+                <p>Forward fold - 2 min</p>
+                <p>Pigeon stretch - 40 sec</p>
+            </div>
+        </div>
+    </div>
+        <div class="weights-workouts">
+            <div class="weights-arms">
+            <h2>Arms & Abs & Plyometrics</h2>
+            <div class="warmup">
+                <h3>Warmup</h3>
+                <p>Arm circles - 40 sec</p>
+                <p>Walkouts - 40 sec</p>
+                <p>Jumprope - 3 min</p>
+                <p>Pogo hops over cone - 2 sets of 1 min</p>
+            </div>
+            <div class="wod">
+                <h3>Workout of the Day (WOD)</h3>
+                <p>Dead hangs - 4 sets of 20 sec</p>
+                <p>Lat pull down - 4 sets of 12 reps</p>
+                <p>Bent over reverse fly - 3 sets of 14 reps</p>
+                <p>Bent over row - 4 sets of 10 reps</p>
+                <p>Overhead press - 3 sets of 12 reps</p>
+            </div>
+            <div class="handstand-daily">
+                <h3>Daily Handstand Work</h3>
+                <p>Seated crunch - 2 sets of 20</p>
+                <p>Pike holds - 3 sets of 30 sec</p>
+                <p>Pike holds one leg - 2 sets of 30 sec</p>
+            </div>
+            <div class="Finisher">
+                <h3>Finisher</h3>
+                <p>Side plank - 4 sets of 40 sec</p>
+                <p>Side plank dips - 2 sets of 40 sec</p>
+                <p>Plank - 2 sets of 40 sec</p>
+            </div>
+            <div class="cool-down">
+                <h3>Cool Down</h3>
+                <p>Downward dog - 40 sec</p>
+                <p>Forward fold - 2 min</p>
+                <p>Child pose - 40 sec</p>
+                <p>Pancake stretch - 2 min</p>
+                <p>Crossbody shoulder stretch - 40 sec</p>
+            </div>
+        </div>
+        </div>
+        <div class="circuit">
+            <h2>Legs Circuit</h2>
+            <div class="warmup">
+                <h3>Warmup</h3>
+                <p>Seated crunch - 1 set of 20</p>
+                <p>Wall walks - 1 set of 20</p>
+                <p>Pike holds - 3 sets of 15 sec</p>
+                <p>Pike holds one leg - 3 sets of 15 sec</p>
+                <p>5 min youtube video!</p>
+            </div>
+            <div class="circuit1">
+                <h3>Circuit 1</h3>
+                <p>Squat to squat pulse @ 45 deg to original - 20 reps</p>
+                <p>Step ups - 24 reps</p>
+                <p>Single leg rdl - 20 reps</p>
+                <p>Jump lunges - 30 reps</p>
+            </div>
+            <div class="circuit2">
+                <h3>Circuit 2</h3>
+                <p>Banded lateral walk x3, squat jump, reverse direction - 16 reps</p>
+                <p>Unilateral overhead press w lunge to knee drive (one weight) - 16 reps</p>
+                <p>Single leg hops with medicine ball chops - 20 reps</p>
+                <p>Squat and press with alt heel tap (tap feet together b/w squats) - 16 reps</p>
+            </div>
+            <div class="cool-down">
+                <h3>Cool Down</h3>
+                <p>Child pose - 40 sec</p>
+                <p>Downward dog - 40 sec</p>
+                <p>Forward fold - 2 min</p>
+                <p>Pancake stretch - 2 min</p>
+                <p>Hold handstand on wall - 2 sets of 7 sec</p>
+                <p>Crossbody shoulder stretch - 40 sec</p>
+            </div>
+        </div>
+        <div class="circuit">
+            <h2>Arms & Abs</h2>
+            <div class="warmup">
+                <h3>Warmup</h3>
+                <p>Seated crunch - 1 set of 20</p>
+                <p>Wall walks - 1 set of 20</p>
+                <p>Pike holds - 3 sets of 15 sec</p>
+                <p>Pike holds one leg - 3 sets of 15 sec</p>
+                <p>5 min youtube video!</p>
+                
+            </div>
+            <div class="circuit1">
+                <h3>Circuit 1</h3>
+                <p>Reverse plank pull throughs - 20 reps</p>
+                <p>Commandos - 20 reps</p>
+                <p>Laydown pushups- 15 reps</p>
+                <p>Pike rainbows - 16 reps</p>
+            </div>
+            <div class="circuit2">
+                <h3>Circuit 2</h3>
+                <p>Wood choppers on one knee - 20 reps</p>
+                <p>No hand plank jacks  - 20 reps</p>
+                <p>Renegade rows - 20 reps</p>
+                <p>V-ups - 20 reps</p>
+            </div>
+            <div class="cool-down">
+                <h3>Cool Down</h3>
+                <p>Child pose - 40 sec</p>
+                <p>Downward dog - 40 sec</p>
+                <p>Forward fold - 2 min</p>
+                <p>Pancake stretch - 2 min</p>
+                <p>Hold handstand on wall - 2 sets of 7 sec</p>
+                <p>Crossbody shoulder stretch - 40 sec</p>
+            </div>
+        </div>
+        <div class="handstand-stuff">
+            <h2>CALISTHENICS, MOBILITY, STRETCHING</h2>
+            <div class="exercises">
+                <h3>Exercises</h3>
+                <p>Rocking closed stance downward dog - 2 min</p>
+                <p>Handstand, one leg on chair kick ups - 20 reps</p>
+                <p>Hands flipped, facing knees, on knees - simliar to childs pose, rocking - 2 min </p>
+                <p>Scapular shrugs - 2 sets of 20 sec</p>
+                <p>Forward fold, hands on ground, tap toes to wrists - 2 sets of 10 sec</p>
+                <p>Shoulder mobility</p>
+                <p>Pike holds - 3 sets of 30 sec</p>
+                <p>Pancake stretch, pike stretch, hip flexors - 5 min each</p>
+            </div>
+        </div>   
+    </div>
+</body>
+</html>
